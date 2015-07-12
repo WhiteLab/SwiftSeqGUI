@@ -1,0 +1,1 @@
+{"type_run":"Tumor_Normal_Pair","second_question":"Hank","Genotyper":{"program":"genotyper1-1.3.4","params":{"n_runs":"","no-discordant":""}},"Aligner":"default","Indel_Realignment":"default","Base_Quality_Score_Recalibration":"default","SNPeff":{"params":[]}}

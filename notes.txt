@@ -1,0 +1,11 @@
+* DONE Ask for 'tumor-normal pairs' or 'germline'
+* More parameters dropdowns as they're specified
+* More checkboxes below other
+* MarkDuplicates, IndelRealignment, BaseQualityScoreRecalibration, SNPeff
+
+Highest priority:
+TODO Welcome page? I don't think we quite have a home page
+TODO Direct access on controllers?
+
+Lower priority:
+TODO String class is currently hardly used
